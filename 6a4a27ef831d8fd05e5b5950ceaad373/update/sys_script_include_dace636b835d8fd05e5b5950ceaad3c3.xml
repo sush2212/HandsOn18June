@@ -12,19 +12,21 @@
         <script><![CDATA[var test123 = Class.create();
 test123.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
 
+
     type: 'test123'
+	
 });]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-06-12 06:53:12</sys_created_on>
         <sys_id>dace636b835d8fd05e5b5950ceaad3c3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>test123</sys_name>
         <sys_package display_value="GITSNOW" source="x_728277_gitsnow">6a4a27ef831d8fd05e5b5950ceaad373</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="GITSNOW">6a4a27ef831d8fd05e5b5950ceaad373</sys_scope>
         <sys_update_name>sys_script_include_dace636b835d8fd05e5b5950ceaad3c3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-12 06:53:12</sys_updated_on>
+        <sys_updated_on>2026-06-12 08:09:09</sys_updated_on>
     </sys_script_include>
 </record_update>
