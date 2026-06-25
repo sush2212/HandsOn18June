@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5275d63f83e58f545e5b5950ceaad322" label="testtable 25june" max_length="40" name="x_728277_gitsnow_testtable_25june" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="description" max_length="40" name="description" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-25 05:16:53</sys_created_on>
+        <sys_id>9c855a3f83e58f545e5b5950ceaad39e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_728277_gitsnow_testtable_25june.x_728277_gitsnow.admin</sys_name>
+        <sys_package display_value="GITSNOW" source="x_728277_gitsnow">6a4a27ef831d8fd05e5b5950ceaad373</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GITSNOW">6a4a27ef831d8fd05e5b5950ceaad373</sys_scope>
+        <sys_security_acl display_value="x_728277_gitsnow_testtable_25june">88855a3f83e58f545e5b5950ceaad399</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9c855a3f83e58f545e5b5950ceaad39e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-25 05:16:53</sys_updated_on>
+        <sys_user_role display_value="x_728277_gitsnow.admin" name="x_728277_gitsnow.admin">04855a3f83e58f545e5b5950ceaad303</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
